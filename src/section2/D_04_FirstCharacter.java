@@ -5,6 +5,7 @@ public class D_04_FirstCharacter {
         if(str.length() == 0){
             return "";
         }
+
         String[] arr = str.split(" ");
         String result = "";
 
